@@ -26,3 +26,7 @@ def test():
     obj = fruitBowl(getBowlFruits)
     test = obj.segregateFruits()
     assert test[0] == test[1], "List are Not equal"
+
+test()
+
+#https://github.com/Akshit10/FruitsBowl.git
